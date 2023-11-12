@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### I'm Alexandr Gurov
 
-### I'm a Reagional Automation Specialist
+### I'm a Regional Automation Specialist
 
 - ⚡ I like my job, like solving different issues and helping people
 - 📚 I am constantly in the process of learning and acquiring new skills
