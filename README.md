@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello 👋, I'm Alexandr Gurov
+### I'm Alexandr Gurov
 
 ### I'm a Reagional Automation Specialist
 
